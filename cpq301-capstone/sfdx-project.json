@@ -7,6 +7,6 @@
   ],
   "name": "cpq301-capstone",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://cpq301c11653com-dev-ed.develop.my.salesforce.com/",
   "sourceApiVersion": "63.0"
 }
